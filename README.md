@@ -47,3 +47,4 @@ pkg> rm JGCM
 # IdealizedSpectralGCM.jl
 # IdealizedSpectralGCM.jl
 # IdealizedSpectralGCM.jl
+# IdealizedSpectralGCM.jl
